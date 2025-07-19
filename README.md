@@ -1,6 +1,6 @@
 # ReadItLater
 
-(readitlater in PowerShell 7)[readitlater.png]
+![readitlater.png](readitlater in PowerShell 7)
 
 ## Built With
 Built in go. I chose it because it's fast enough to be snappy and simple enough to develop in one evening. This project is a part of my series 'built it in one evening' during the summer.
